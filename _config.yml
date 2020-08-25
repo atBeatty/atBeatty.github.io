@@ -1,11 +1,11 @@
 # Site settings
 author: Adam Beatty
-title: 
+title: Flatiron Blog
 header-img: img/home-bg.png
 email: adam.t.beatt@gmail.com
 copyright_name: Adam Beatty
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Important Takeaways from a FT Student
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  atBeatty
