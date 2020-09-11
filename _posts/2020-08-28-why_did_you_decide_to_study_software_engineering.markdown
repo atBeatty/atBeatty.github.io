@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why did you decide to study Software Engineering?"
-date:       2020-08-29 01:44:59 +0000
+date:       2020-08-28 21:44:59 -0400
 permalink:  why_did_you_decide_to_study_software_engineering
 ---
 
@@ -10,4 +10,6 @@ To understand why I am passionate about coding languages and the powers that be,
 
 Currently I am in school in Portland, OR. I have two terms left until I graduate with a BFA in Graphic Design. Due to the pandemic, I felt that this was a far better use of my time because the alternative is going to attending Zoom classes which simply are not as effective when it comes times to print and critique. This program fits perfectly into my schedule as I hope to return to my BFA track when I wrap up my Flatiron program. The combined curriculum of the BFA and the code certification will prepare me for an incredible future.
 
-The possiblities are literally endless. I know I can contribute and improve our society by leveraging software and applications for the greater good. Lastly, it is addicting. My need for logic and reason makes for a perfect fit.
+The possiblities are literally endless. I know I can contribute and improve our society by leveraging software and applications for the greater good. Lastly, it is addicting. My need for logic and reason makes for a perfect fit. It's nice to find a profession and not ever seem like I am working. I enjoy it so much.
+
+
