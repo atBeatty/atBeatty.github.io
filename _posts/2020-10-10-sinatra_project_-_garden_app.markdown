@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Sinatra Project - Garden App"
-date:       2020-10-10 20:04:28 +0000
+title:      "Sinatra Project Garden App"
+date:       2020-10-10 16:04:29 -0400
 permalink:  sinatra_project_-_garden_app
 ---
 
