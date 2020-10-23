@@ -25,3 +25,5 @@ Initially, I programmed the app so the user would have to take time to put in th
 
 As a result, the last programming and functionality that was added to the app was loading drop down lists and option buttons as opposed to text area boxes for putting in plant specs.
 
+The key functions of this app are fairly rudimentary, which allowed me to learn the core of Sinatra frameworks. As a result of this project, I feel more familiar with the REST conventions and routing methods that take place when clients are executing HTTP requests. Working with the visual aspect of HTML and the backend DB was a thrill. I feel like so many questions I have had over the years regarding the internet have been answered!
+
