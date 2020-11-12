@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A First-Time Rails Build"
-date:       2020-11-08 23:08:45 +0000
+date:       2020-11-08 18:08:46 -0500
 permalink:  a_first-time_rails_build
 ---
 
@@ -34,5 +34,9 @@ end
 With this in place, I ran into errors and found myself coding into a corner. One of the biggest flaws was that it was deleting multiple associated database entries when I built out the delete functionality. I actually learned quite a bit on the dynamics of how some of the Rails relationships work. 
 
 I ended up starting over because I needed to come up with a stronger model/domain. Plants and Gardens were all too similar and it was hard to make either one the driving force of an App. 
+
+I followed my gut and decided to start over with a database that functioned cleaner within the confines of all the various associations. I built out a productions app which allows a user to manage information on productions. These productions have a main producer and of course, a client, associated with it every time it is created. 
+
+Overall, this truth holder, the productions table, is structured in a way where the has_many and has_many, through: relationships carry out meaningful behaviors and needs for the user. What's great about rails is that once I was comfortable with running migrations in the command line, it became easy to add and build to the existing framework. 
 
 
